@@ -1,5 +1,5 @@
 # FITNESS-AGENT
-.
+
 
 ## Fitness Buddy – Your AI Fitness Coach Powered by IBM Watson
 Fitness Buddy is an AI-powered virtual assistant designed to help users achieve their health and fitness goals. Built using IBM Watson Assistant, Watson Machine Learning, and Watson Discovery, it delivers intelligent, conversational fitness guidance—right from personalized workouts to daily motivation.
